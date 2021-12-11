@@ -41,3 +41,4 @@ function validarFormulario(evento) {
   this.submit();
 }
 
+//Validaciones con expresiones regulares
